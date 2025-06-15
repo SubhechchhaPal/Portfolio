@@ -130,20 +130,20 @@
   }
 
   .header-text h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 
   .header-text h3 {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
 
   .header-text p {
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 
   header img {
-    width: 180px;
-    height: 180px;
+    width: 220px;
+    height: 220px;
   }
 
   main {
@@ -151,34 +151,34 @@
   }
 
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 
   .project-gallery img {
-    width: 240px;
+    width: 280px;
   }
 }
 
 @media (max-width: 600px) {
   .header-text h1 {
-    font-size: 1.6rem;
+    font-size: 2rem;
   }
 
   .header-text h3 {
-    font-size: 1rem;
+    font-size: 1.3rem;
   }
 
   .header-text p {
-    font-size: 0.95rem;
+    font-size: 1rem;
   }
 
   header img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
   }
 
   .project-gallery img {
-    width: 200px;
+    width: 250px;
   }
 
   main {
@@ -186,7 +186,7 @@
   }
 
   h2 {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
   }
 
   footer {
